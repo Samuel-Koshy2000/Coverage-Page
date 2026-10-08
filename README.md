@@ -1,4 +1,4 @@
-# Rollee – Coverage Page
+Coverage Page (Frontend)
 
 A Vue 3 single-page app that displays Rollee datasources with tabs, search, filters, and sorting. Built as part of the Frontend Intern assignment.
 
